@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.roudstudio.com	TRUE	/	FALSE	1999999999	__cfduid	dae59a95625455eb6f7f5f01d2b4500f51535577195
-
