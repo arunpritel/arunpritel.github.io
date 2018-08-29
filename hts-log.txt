@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Aug 2018 02:43:15 at https://www.roudstudio.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.roudstudio.com/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "en, *" https://www.roudstudio.com/ -O1 "C:\My Web Sites\roud" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://www.roudstudio.com/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 3 links scanned, 2 files written (79435 bytes overall) [53015 bytes received at 26507 bytes/sec], 48694 bytes transferred using HTTP compression in 2 files, ratio 32%
+(No errors, 0 warnings, 0 messages)
