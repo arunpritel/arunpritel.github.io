@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-02:43:16	44169/44169	---M-Z	200	added ('OK')	text/html	date:Wed,%2029%20Aug%202018%2021:13:15%20GMT	https://www.roudstudio.com/	C:/My%20Web%20Sites/roud/www.roudstudio.com/index.html	(from )
-02:43:16	4525/4525	---M-Z	404	error ('Not%20Found')	text/html	date:Wed,%2029%20Aug%202018%2021:13:16%20GMT	https://www.roudstudio.com/robots.txt		(from )
-02:43:17	35266/35266	---MC-	200	added ('OK')	text/javascript	date:Fri,%2018%20May%202018%2001:10:24%20GMT	https://www.google-analytics.com/analytics.js	C:/My%20Web%20Sites/roud/www.google-analytics.com/analytics.js	(from https://www.roudstudio.com/)
